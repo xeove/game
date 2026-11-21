@@ -1,2 +1,0 @@
-*_BurstDebugInformation_DoNotShip/
-*_BackUpThisFolder_ButDontShipItWithYourGame/
