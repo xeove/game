@@ -1,0 +1,1046 @@
+{
+    "gameVersion": "2026.11.21.1012",
+    "exeName": "gamegame.exe",
+    "files": [
+        {
+            "relativePath": "DirectML.dll",
+            "md5": "7982ce756c6e8c8f6bab62eb1902b714",
+            "size": 14021152
+        },
+        {
+            "relativePath": "dstorage.dll",
+            "md5": "08c190f8d8a2c4e20024b987c979de9d",
+            "size": 206904
+        },
+        {
+            "relativePath": "dstoragecore.dll",
+            "md5": "0b4f419dce596a34a7f8bdeaa06287fe",
+            "size": 1482784
+        },
+        {
+            "relativePath": "gamegame.exe",
+            "md5": "0e5fe85b2ff9f5cf3867357519a04c4b",
+            "size": 667136
+        },
+        {
+            "relativePath": "UnityCrashHandler64.exe",
+            "md5": "2b67e6ba9edbc5d20b788b5071e334e4",
+            "size": 1773992
+        },
+        {
+            "relativePath": "UnityPlayer.dll",
+            "md5": "25be915567da7dce3f323aae615e2120",
+            "size": 38753192
+        },
+        {
+            "relativePath": "D3D12/D3D12Core.dll",
+            "md5": "8bed03240b764906c937c0d6ccd560ac",
+            "size": 4725304
+        },
+        {
+            "relativePath": "gamegame_Data/app.info",
+            "md5": "ea739a4ac4416094cb55314b5ecf25a0",
+            "size": 23
+        },
+        {
+            "relativePath": "gamegame_Data/boot.config",
+            "md5": "304d80040ee55cc95970fc5ffe4aae97",
+            "size": 156
+        },
+        {
+            "relativePath": "gamegame_Data/globalgamemanagers",
+            "md5": "913d3749c90c49f74e7499fd5cd40bad",
+            "size": 147540
+        },
+        {
+            "relativePath": "gamegame_Data/globalgamemanagers.assets",
+            "md5": "6b3c2a607676bcef5f753162976b3d40",
+            "size": 1136520
+        },
+        {
+            "relativePath": "gamegame_Data/globalgamemanagers.assets.resS",
+            "md5": "7563be28d014f30a2a1b53914c25ef61",
+            "size": 3553504
+        },
+        {
+            "relativePath": "gamegame_Data/level0",
+            "md5": "820c2d661af3b2f6c5b01a88f75b4eef",
+            "size": 128488
+        },
+        {
+            "relativePath": "gamegame_Data/resources.assets",
+            "md5": "e97de8d2bf1f5b260647ea592d9ccbca",
+            "size": 10472620
+        },
+        {
+            "relativePath": "gamegame_Data/resources.assets.resS",
+            "md5": "0cd97894d00a2c73f7977a39d0f90968",
+            "size": 262144
+        },
+        {
+            "relativePath": "gamegame_Data/RuntimeInitializeOnLoads.json",
+            "md5": "f2487dad9ec08189e5c94a6d12ad6fca",
+            "size": 7008
+        },
+        {
+            "relativePath": "gamegame_Data/ScriptingAssemblies.json",
+            "md5": "d1392ce16bf1a6477d9e63a168179d0b",
+            "size": 5182
+        },
+        {
+            "relativePath": "gamegame_Data/sharedassets0.assets",
+            "md5": "57e6a21a1c827f4de23c944eda79e430",
+            "size": 7910464
+        },
+        {
+            "relativePath": "gamegame_Data/sharedassets0.assets.resS",
+            "md5": "2d672d8ef1302aad6d2d902edfee784e",
+            "size": 819216
+        },
+        {
+            "relativePath": "gamegame_Data/Managed/Assembly-CSharp.dll",
+            "md5": "1061d5584cd1ad76d15dbbe8b531390c",
+            "size": 234496
+        },
+        {
+            "relativePath": "gamegame_Data/Managed/kcp2k.dll",
+            "md5": "95e080bb8a6b10a9f0a14fc7feefa416",
+            "size": 36352
+        },
+        {
+            "relativePath": "gamegame_Data/Managed/Mirror.Authenticators.dll",
+            "md5": "bb0f06c375b0f9695f88536a685d0af1",
+            "size": 30208
+        },
+        {
+            "relativePath": "gamegame_Data/Managed/Mirror.BouncyCastle.Cryptography.dll",
+            "md5": "ee909f54b1db5b37cf8def6462d5cc95",
+            "size": 6856192
+        },
+        {
+            "relativePath": "gamegame_Data/Managed/Mirror.Components.dll",
+            "md5": "89d9ef452c12eb354052c411cf5f545d",
+            "size": 168960
+        },
+        {
+            "relativePath": "gamegame_Data/Managed/Mirror.dll",
+            "md5": "6e43c949ae797b299faa83a2e362a334",
+            "size": 219136
+        },
+        {
+            "relativePath": "gamegame_Data/Managed/Mirror.Examples.dll",
+            "md5": "37346225b7342dfece61dd0118984332",
+            "size": 238592
+        },
+        {
+            "relativePath": "gamegame_Data/Managed/Mirror.Transports.dll",
+            "md5": "6f7caf2564d65b7a0f189d5d242ca694",
+            "size": 90624
+        },
+        {
+            "relativePath": "gamegame_Data/Managed/Mono.Security.dll",
+            "md5": "a70275712d3d3f60cfcd22be3954fe45",
+            "size": 241152
+        },
+        {
+            "relativePath": "gamegame_Data/Managed/mscorlib.dll",
+            "md5": "c39ce4dc408875d3a66d331d4961a615",
+            "size": 4632064
+        },
+        {
+            "relativePath": "gamegame_Data/Managed/netstandard.dll",
+            "md5": "c61967ebe7f07f6a5a1b3f91842bbc3c",
+            "size": 90112
+        },
+        {
+            "relativePath": "gamegame_Data/Managed/Newtonsoft.Json.dll",
+            "md5": "d751086b7423fd5580b5e909b06217b9",
+            "size": 691712
+        },
+        {
+            "relativePath": "gamegame_Data/Managed/SimpleWebTransport.dll",
+            "md5": "24c2a2eb19e86d7f873a5643997d5fed",
+            "size": 44544
+        },
+        {
+            "relativePath": "gamegame_Data/Managed/System.Buffers.dll",
+            "md5": "1aa1ddc4d49769bf54413bc277b89c9a",
+            "size": 4608
+        },
+        {
+            "relativePath": "gamegame_Data/Managed/System.Collections.Immutable.dll",
+            "md5": "e9a6d21808d4740a010fcdb50abc4cb6",
+            "size": 252680
+        },
+        {
+            "relativePath": "gamegame_Data/Managed/System.ComponentModel.Composition.dll",
+            "md5": "ab24c15d2c0ff1095a4c2f3851493e5b",
+            "size": 257024
+        },
+        {
+            "relativePath": "gamegame_Data/Managed/System.Configuration.dll",
+            "md5": "629b3f179fbe0d355febb43008bc1150",
+            "size": 124928
+        },
+        {
+            "relativePath": "gamegame_Data/Managed/System.Core.dll",
+            "md5": "8b2d18d7e2e33e1a5807d84199478666",
+            "size": 1113088
+        },
+        {
+            "relativePath": "gamegame_Data/Managed/System.Data.DataSetExtensions.dll",
+            "md5": "430cfbef2c4e1009d49757600b62d593",
+            "size": 29696
+        },
+        {
+            "relativePath": "gamegame_Data/Managed/System.Data.dll",
+            "md5": "3aa2e3579e2fa132c150cea51dc63843",
+            "size": 2125312
+        },
+        {
+            "relativePath": "gamegame_Data/Managed/System.dll",
+            "md5": "98ae1a98efd75dddc6fb1e095394a669",
+            "size": 2641920
+        },
+        {
+            "relativePath": "gamegame_Data/Managed/System.Drawing.dll",
+            "md5": "9493491e2741cd38decbbe989407eaed",
+            "size": 489984
+        },
+        {
+            "relativePath": "gamegame_Data/Managed/System.EnterpriseServices.dll",
+            "md5": "9a295adbcefcd5b2be1665431f807c7f",
+            "size": 44544
+        },
+        {
+            "relativePath": "gamegame_Data/Managed/System.IO.Compression.dll",
+            "md5": "6e52a026c646a0d4f2af05bf769ef6ea",
+            "size": 114688
+        },
+        {
+            "relativePath": "gamegame_Data/Managed/System.IO.Compression.FileSystem.dll",
+            "md5": "edf44415ea526cd8b62e00d2dc4ac4bd",
+            "size": 18432
+        },
+        {
+            "relativePath": "gamegame_Data/Managed/System.Memory.dll",
+            "md5": "dc68c8815bb99c40707580880fe08055",
+            "size": 4608
+        },
+        {
+            "relativePath": "gamegame_Data/Managed/System.Net.Http.dll",
+            "md5": "dd5ea50059d2a2c3db1644a29250dded",
+            "size": 122880
+        },
+        {
+            "relativePath": "gamegame_Data/Managed/System.Numerics.dll",
+            "md5": "c85463f7378ecb714c11e193799a4913",
+            "size": 119296
+        },
+        {
+            "relativePath": "gamegame_Data/Managed/System.Reflection.Metadata.dll",
+            "md5": "05084343ea56857e05b13e3a70df1c80",
+            "size": 487584
+        },
+        {
+            "relativePath": "gamegame_Data/Managed/System.Runtime.CompilerServices.Unsafe.dll",
+            "md5": "48b5112f5e78ae1c9c9b0356beebfe8f",
+            "size": 19256
+        },
+        {
+            "relativePath": "gamegame_Data/Managed/System.Runtime.Serialization.dll",
+            "md5": "829d57f23e0f0f3e818f239eb772349f",
+            "size": 934400
+        },
+        {
+            "relativePath": "gamegame_Data/Managed/System.Security.dll",
+            "md5": "4f90a007616e253e8516178fd6a7f037",
+            "size": 320000
+        },
+        {
+            "relativePath": "gamegame_Data/Managed/System.ServiceModel.Internals.dll",
+            "md5": "bb72580dd59b186c2d145f1c8deb7824",
+            "size": 215040
+        },
+        {
+            "relativePath": "gamegame_Data/Managed/System.Transactions.dll",
+            "md5": "fbc2ca3bf79df16eb53154d72b446f81",
+            "size": 35328
+        },
+        {
+            "relativePath": "gamegame_Data/Managed/System.Xml.dll",
+            "md5": "cb61f7c2a9564c482040b91540a25f45",
+            "size": 3160064
+        },
+        {
+            "relativePath": "gamegame_Data/Managed/System.Xml.Linq.dll",
+            "md5": "770c05ed22df4ce6360bdfc91e129fda",
+            "size": 136704
+        },
+        {
+            "relativePath": "gamegame_Data/Managed/Telepathy.dll",
+            "md5": "bd783c870349aafbd8e1d61d797c863e",
+            "size": 18944
+        },
+        {
+            "relativePath": "gamegame_Data/Managed/Unity.AI.MCP.Runtime.dll",
+            "md5": "39f68a528041d7f19f657c608bea0c0d",
+            "size": 9728
+        },
+        {
+            "relativePath": "gamegame_Data/Managed/Unity.AI.Tracing.dll",
+            "md5": "e593c12586746bd4d5b251f8b99dd501",
+            "size": 28160
+        },
+        {
+            "relativePath": "gamegame_Data/Managed/Unity.AppUI.TextMateLib.dll",
+            "md5": "579367f1e428c918a268d7b8bcba362b",
+            "size": 15360
+        },
+        {
+            "relativePath": "gamegame_Data/Managed/Unity.Burst.dll",
+            "md5": "940fb907dcb1954b89d079e2c8806372",
+            "size": 5120
+        },
+        {
+            "relativePath": "gamegame_Data/Managed/Unity.Collections.dll",
+            "md5": "320eb080e93b5bdcadf94a1fcd6441d0",
+            "size": 443904
+        },
+        {
+            "relativePath": "gamegame_Data/Managed/Unity.Collections.LowLevel.ILSupport.dll",
+            "md5": "6988e30bd4d788c70d564ee21c52ab1a",
+            "size": 5120
+        },
+        {
+            "relativePath": "gamegame_Data/Managed/Unity.Collections.Tests.CoreCLR.InternalJobNestedPrivate.dll",
+            "md5": "91166de6217dd879a113547af7e9cc67",
+            "size": 4608
+        },
+        {
+            "relativePath": "gamegame_Data/Managed/Unity.Collections.Tests.CoreCLR.PrivateJobNested.dll",
+            "md5": "b4846060e36046bd1911dd3da7e8e9e8",
+            "size": 4096
+        },
+        {
+            "relativePath": "gamegame_Data/Managed/Unity.Collections.Tests.CoreCLR.ProtectedJobNested.dll",
+            "md5": "12138f597a4f5a61d98f214886de2369",
+            "size": 4096
+        },
+        {
+            "relativePath": "gamegame_Data/Managed/Unity.Collections.Tests.CoreCLR.PublicJobPrivateGeneric.dll",
+            "md5": "92c19c385872feeb7c213795e52b6763",
+            "size": 4608
+        },
+        {
+            "relativePath": "gamegame_Data/Managed/Unity.InferenceEngine.dll",
+            "md5": "a968294e05815d5b769942aa7516a9ee",
+            "size": 1225728
+        },
+        {
+            "relativePath": "gamegame_Data/Managed/Unity.InferenceEngine.Tokenization.dll",
+            "md5": "c1f2bb7267a015f792297a1a70440cfb",
+            "size": 158720
+        },
+        {
+            "relativePath": "gamegame_Data/Managed/Unity.InputSystem.dll",
+            "md5": "d916de10a18a401a4143025394dce70b",
+            "size": 1095168
+        },
+        {
+            "relativePath": "gamegame_Data/Managed/Unity.InputSystem.ForUI.dll",
+            "md5": "9b299302c0a5222611931e8d0e5e3704",
+            "size": 15360
+        },
+        {
+            "relativePath": "gamegame_Data/Managed/Unity.InternalAPIEngineBridge.004.dll",
+            "md5": "5d50f4ff57033e664177333d2e4f7f88",
+            "size": 4096
+        },
+        {
+            "relativePath": "gamegame_Data/Managed/Unity.InternalAPIEngineBridge.ObjectDispatcher.Runtime.dll",
+            "md5": "01694eb84fd90a2bb2cb7357a94ec5e3",
+            "size": 5632
+        },
+        {
+            "relativePath": "gamegame_Data/Managed/Unity.InternalAPIEngineBridge.RenderPipelines.Core.Runtime.Shared.dll",
+            "md5": "24764403a0fbf8ca3f47883fa72a4923",
+            "size": 3584
+        },
+        {
+            "relativePath": "gamegame_Data/Managed/Unity.Mathematics.dll",
+            "md5": "2933b084d9cd354dafeafb265e44dba0",
+            "size": 5632
+        },
+        {
+            "relativePath": "gamegame_Data/Managed/Unity.PathTracing.Runtime.dll",
+            "md5": "71d7b301044784634783f962bd114e42",
+            "size": 152576
+        },
+        {
+            "relativePath": "gamegame_Data/Managed/Unity.Pipeline.Attributes.dll",
+            "md5": "451ad5134cace0916acb6c533c9cbf2f",
+            "size": 6656
+        },
+        {
+            "relativePath": "gamegame_Data/Managed/Unity.Profiling.Core.dll",
+            "md5": "bb482e881f43774352da25987ec0ac58",
+            "size": 8192
+        },
+        {
+            "relativePath": "gamegame_Data/Managed/Unity.RenderPipeline.Universal.ShaderLibrary.dll",
+            "md5": "61b7d87086a0a4b627e0a87bd89cfbe1",
+            "size": 7680
+        },
+        {
+            "relativePath": "gamegame_Data/Managed/Unity.RenderPipelines.Core.Runtime.dll",
+            "md5": "8a0db692eee990e11f7ba0b0e78ad068",
+            "size": 1085952
+        },
+        {
+            "relativePath": "gamegame_Data/Managed/Unity.RenderPipelines.Core.Runtime.Shared.dll",
+            "md5": "0384388d4ef34f45db57cb9491a44954",
+            "size": 11264
+        },
+        {
+            "relativePath": "gamegame_Data/Managed/Unity.RenderPipelines.Core.ShaderLibrary.dll",
+            "md5": "1a769f1ffc8ac61b2c494b5b3cdaadf2",
+            "size": 3584
+        },
+        {
+            "relativePath": "gamegame_Data/Managed/Unity.RenderPipelines.GPUDriven.Runtime.dll",
+            "md5": "4ac37c265c5ee29633424e3792ee0251",
+            "size": 274944
+        },
+        {
+            "relativePath": "gamegame_Data/Managed/Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.dll",
+            "md5": "8bccae941fd0d3511de3d804263c2270",
+            "size": 3584
+        },
+        {
+            "relativePath": "gamegame_Data/Managed/Unity.RenderPipelines.Universal.2D.Runtime.dll",
+            "md5": "c1d23235489c27b92919bdc8e5353284",
+            "size": 215552
+        },
+        {
+            "relativePath": "gamegame_Data/Managed/Unity.RenderPipelines.Universal.Config.Runtime.dll",
+            "md5": "585146764c216912e8332c3b2a10c2a5",
+            "size": 4096
+        },
+        {
+            "relativePath": "gamegame_Data/Managed/Unity.RenderPipelines.Universal.Runtime.dll",
+            "md5": "f009ec34636d6f6ac1d574a0953fe4f9",
+            "size": 753152
+        },
+        {
+            "relativePath": "gamegame_Data/Managed/Unity.RenderPipelines.Universal.Shaders.dll",
+            "md5": "910cbfd48336eb9ab2241e09d225d67d",
+            "size": 3584
+        },
+        {
+            "relativePath": "gamegame_Data/Managed/Unity.Scripting.dll",
+            "md5": "6cb620b0e19e879489d9ac5b65308342",
+            "size": 70576
+        },
+        {
+            "relativePath": "gamegame_Data/Managed/Unity.SurfaceCache.Runtime.dll",
+            "md5": "517348257d87fc6985966544018362da",
+            "size": 35840
+        },
+        {
+            "relativePath": "gamegame_Data/Managed/Unity.TextMeshPro.dll",
+            "md5": "5a24bc49f229ff7b1fdb33c3c9bbcd2d",
+            "size": 440320
+        },
+        {
+            "relativePath": "gamegame_Data/Managed/Unity.UnifiedRayTracing.Runtime.dll",
+            "md5": "27f44b2fc9bb3d0d63c4b72e94b04140",
+            "size": 101376
+        },
+        {
+            "relativePath": "gamegame_Data/Managed/Unity.VectorGraphics.dll",
+            "md5": "4307ca5aea6e39f1a8e0bd43b1c09ca5",
+            "size": 6656
+        },
+        {
+            "relativePath": "gamegame_Data/Managed/UnityEngine.AccessibilityModule.dll",
+            "md5": "af339b302aac531ef2883868645b7733",
+            "size": 49584
+        },
+        {
+            "relativePath": "gamegame_Data/Managed/UnityEngine.AdaptivePerformanceModule.dll",
+            "md5": "c9fc168b0e4e5322e3fbb1d8981026e6",
+            "size": 122280
+        },
+        {
+            "relativePath": "gamegame_Data/Managed/UnityEngine.AIModule.dll",
+            "md5": "35391ef669c4cd7b2471c4b375a2bee8",
+            "size": 87472
+        },
+        {
+            "relativePath": "gamegame_Data/Managed/UnityEngine.AMDModule.dll",
+            "md5": "54b6eda97cb5381944fd9c358dc4c3f3",
+            "size": 21936
+        },
+        {
+            "relativePath": "gamegame_Data/Managed/UnityEngine.AndroidJNIModule.dll",
+            "md5": "38fc00241b3e7f3486f4afe77c84a084",
+            "size": 121256
+        },
+        {
+            "relativePath": "gamegame_Data/Managed/UnityEngine.AnimationModule.dll",
+            "md5": "833f2f599290e867e96b6b7e9a77b6b0",
+            "size": 218024
+        },
+        {
+            "relativePath": "gamegame_Data/Managed/UnityEngine.ARModule.dll",
+            "md5": "6b0429a1e169adf647674c0597514774",
+            "size": 27568
+        },
+        {
+            "relativePath": "gamegame_Data/Managed/UnityEngine.AssetBundleModule.dll",
+            "md5": "e224351cdea2caed56aeb6fdc4f3b373",
+            "size": 42928
+        },
+        {
+            "relativePath": "gamegame_Data/Managed/UnityEngine.AudioModule.dll",
+            "md5": "5677db18dcaeea6ffb1fed2d2e9b4973",
+            "size": 142248
+        },
+        {
+            "relativePath": "gamegame_Data/Managed/UnityEngine.BurstModule.dll",
+            "md5": "8ccfc2b9b28f01ef0ffce75a5db61c30",
+            "size": 337832
+        },
+        {
+            "relativePath": "gamegame_Data/Managed/UnityEngine.ClothModule.dll",
+            "md5": "b66e71901f0ed769992d04c120fbcb04",
+            "size": 38320
+        },
+        {
+            "relativePath": "gamegame_Data/Managed/UnityEngine.ClusterInputModule.dll",
+            "md5": "16a20871062b0338ccd0c0901d9c67f2",
+            "size": 30120
+        },
+        {
+            "relativePath": "gamegame_Data/Managed/UnityEngine.ClusterRendererModule.dll",
+            "md5": "9daee424af16a0b98ed8b0c1b05ddebf",
+            "size": 28592
+        },
+        {
+            "relativePath": "gamegame_Data/Managed/UnityEngine.ContentLoadModule.dll",
+            "md5": "0f817bd5fd2f42c121c5d8f982786093",
+            "size": 56232
+        },
+        {
+            "relativePath": "gamegame_Data/Managed/UnityEngine.CoreModule.dll",
+            "md5": "859fc81f673269b3f08fbb82efa31a8f",
+            "size": 2030504
+        },
+        {
+            "relativePath": "gamegame_Data/Managed/UnityEngine.CrashReportingModule.dll",
+            "md5": "2769686113d174580a03cd4dc7251fc6",
+            "size": 28584
+        },
+        {
+            "relativePath": "gamegame_Data/Managed/UnityEngine.DirectorModule.dll",
+            "md5": "4ab6712c6abdb6361e767afffde7a06c",
+            "size": 42928
+        },
+        {
+            "relativePath": "gamegame_Data/Managed/UnityEngine.dll",
+            "md5": "0e0e88866da302e579c04d3d6e8edf8f",
+            "size": 226216
+        },
+        {
+            "relativePath": "gamegame_Data/Managed/UnityEngine.DSPGraphModule.dll",
+            "md5": "70e6782fc13e2436f8364293e6abd52e",
+            "size": 33704
+        },
+        {
+            "relativePath": "gamegame_Data/Managed/UnityEngine.GameCenterModule.dll",
+            "md5": "e849d09dfa0c862e96feb453073dcba7",
+            "size": 46504
+        },
+        {
+            "relativePath": "gamegame_Data/Managed/UnityEngine.GIModule.dll",
+            "md5": "264577074ba124b650eb99e694613737",
+            "size": 26032
+        },
+        {
+            "relativePath": "gamegame_Data/Managed/UnityEngine.GraphicsStateCollectionSerializerModule.dll",
+            "md5": "2fc71db8ba82f1f34d634d7a6d60a1f0",
+            "size": 14256
+        },
+        {
+            "relativePath": "gamegame_Data/Managed/UnityEngine.GridModule.dll",
+            "md5": "59790107041c541e347f531f4fe0dc0b",
+            "size": 32688
+        },
+        {
+            "relativePath": "gamegame_Data/Managed/UnityEngine.HierarchyCoreModule.dll",
+            "md5": "8613600d5f44f88b603f7a1c29f7bd21",
+            "size": 114608
+        },
+        {
+            "relativePath": "gamegame_Data/Managed/UnityEngine.HierarchyModule.dll",
+            "md5": "64ce53d5eee7efa108dd82dd89eb7c4e",
+            "size": 117168
+        },
+        {
+            "relativePath": "gamegame_Data/Managed/UnityEngine.HotReloadModule.dll",
+            "md5": "972bc5bcd894f58f8d9e4591a2848b68",
+            "size": 26024
+        },
+        {
+            "relativePath": "gamegame_Data/Managed/UnityEngine.IdentifiersModule.dll",
+            "md5": "0ca3ee935df9eb0d41beb29660fa2c98",
+            "size": 16816
+        },
+        {
+            "relativePath": "gamegame_Data/Managed/UnityEngine.ImageConversionModule.dll",
+            "md5": "ac45244a8ab3b0524409f4d75e11fcb3",
+            "size": 34224
+        },
+        {
+            "relativePath": "gamegame_Data/Managed/UnityEngine.IMGUIModule.dll",
+            "md5": "ffd6e02b3d07dcb98de7cf3ba24e9dd4",
+            "size": 191920
+        },
+        {
+            "relativePath": "gamegame_Data/Managed/UnityEngine.InputForUIModule.dll",
+            "md5": "db4205071507bd03133e22e20db12790",
+            "size": 56752
+        },
+        {
+            "relativePath": "gamegame_Data/Managed/UnityEngine.InputLegacyModule.dll",
+            "md5": "675ad0b8b5713c82fea3013e0134e260",
+            "size": 42928
+        },
+        {
+            "relativePath": "gamegame_Data/Managed/UnityEngine.InputModule.dll",
+            "md5": "f52037221903cc41900b4cd6deeeabfd",
+            "size": 32680
+        },
+        {
+            "relativePath": "gamegame_Data/Managed/UnityEngine.InsightsModule.dll",
+            "md5": "0ce346293b9647119306c6d43b757679",
+            "size": 15784
+        },
+        {
+            "relativePath": "gamegame_Data/Managed/UnityEngine.JSONSerializeModule.dll",
+            "md5": "8d654e212467a1ef8ec1dd8c78d810fb",
+            "size": 29096
+        },
+        {
+            "relativePath": "gamegame_Data/Managed/UnityEngine.LocalizationModule.dll",
+            "md5": "4e1f27f491ee852dbd59da6c1eea9b84",
+            "size": 29104
+        },
+        {
+            "relativePath": "gamegame_Data/Managed/UnityEngine.ManagedKernelModule.dll",
+            "md5": "38f5044a445b4c111f8d149754a68882",
+            "size": 14256
+        },
+        {
+            "relativePath": "gamegame_Data/Managed/UnityEngine.MarshallingModule.dll",
+            "md5": "fed6cfada105139075167053681e98e1",
+            "size": 100784
+        },
+        {
+            "relativePath": "gamegame_Data/Managed/UnityEngine.MathematicsModule.dll",
+            "md5": "7bd23b400223bb9241160996d1b595f9",
+            "size": 740784
+        },
+        {
+            "relativePath": "gamegame_Data/Managed/UnityEngine.MultiplayerModule.dll",
+            "md5": "482a3ec13287f07679375c86f8294563",
+            "size": 18352
+        },
+        {
+            "relativePath": "gamegame_Data/Managed/UnityEngine.NVIDIAModule.dll",
+            "md5": "5efbd7e462db6158ece532513cbc6152",
+            "size": 41392
+        },
+        {
+            "relativePath": "gamegame_Data/Managed/UnityEngine.ParticleSystemModule.dll",
+            "md5": "2f4fd064939b6ccb12720cd15d82109c",
+            "size": 170416
+        },
+        {
+            "relativePath": "gamegame_Data/Managed/UnityEngine.PerformanceReportingModule.dll",
+            "md5": "0186a86a6645363a1774e32893e6668f",
+            "size": 27056
+        },
+        {
+            "relativePath": "gamegame_Data/Managed/UnityEngine.Physics2DModule.dll",
+            "md5": "d36567ffd8e349d74905b389dcf087db",
+            "size": 222640
+        },
+        {
+            "relativePath": "gamegame_Data/Managed/UnityEngine.PhysicsBackendPhysXModule.dll",
+            "md5": "b3b90c0ec8fdc8e6222346a9a81cf284",
+            "size": 14256
+        },
+        {
+            "relativePath": "gamegame_Data/Managed/UnityEngine.PhysicsCore2DModule.dll",
+            "md5": "0a57985915e2803955f2eb9ef2a441d7",
+            "size": 481192
+        },
+        {
+            "relativePath": "gamegame_Data/Managed/UnityEngine.PhysicsModule.dll",
+            "md5": "5738ad6144ae655b6f97d29b6bc26683",
+            "size": 181672
+        },
+        {
+            "relativePath": "gamegame_Data/Managed/UnityEngine.PropertiesModule.dll",
+            "md5": "cbce5857c545004ad20fe4a6e91b6986",
+            "size": 124840
+        },
+        {
+            "relativePath": "gamegame_Data/Managed/UnityEngine.RenderAs2DModule.dll",
+            "md5": "005013cb031f3e8ccba67b527824c0db",
+            "size": 27560
+        },
+        {
+            "relativePath": "gamegame_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll",
+            "md5": "abfdf5e7e259a6f9093356e80fc6ce66",
+            "size": 26032
+        },
+        {
+            "relativePath": "gamegame_Data/Managed/UnityEngine.ScreenCaptureModule.dll",
+            "md5": "4f8b34ca14bb966a6e894fece266d0c5",
+            "size": 28080
+        },
+        {
+            "relativePath": "gamegame_Data/Managed/UnityEngine.ScriptingModule.dll",
+            "md5": "e568b50522b1a450a143992cbc5d52fc",
+            "size": 65968
+        },
+        {
+            "relativePath": "gamegame_Data/Managed/UnityEngine.ShaderVariantAnalyticsModule.dll",
+            "md5": "3601007c79c15e027b0a0b388a0e995f",
+            "size": 26032
+        },
+        {
+            "relativePath": "gamegame_Data/Managed/UnityEngine.SpriteMaskModule.dll",
+            "md5": "84b96d7cc9c8c3e475e89d2cf8a5fcb1",
+            "size": 30632
+        },
+        {
+            "relativePath": "gamegame_Data/Managed/UnityEngine.SpriteShapeModule.dll",
+            "md5": "81579bf47c23b84b0286fd08c2b4f1bc",
+            "size": 34216
+        },
+        {
+            "relativePath": "gamegame_Data/Managed/UnityEngine.StreamingModule.dll",
+            "md5": "f1eaeb75f0c2cd160465c65b6f1116ef",
+            "size": 28080
+        },
+        {
+            "relativePath": "gamegame_Data/Managed/UnityEngine.SubstanceModule.dll",
+            "md5": "4fc91c40da18be0f2291c6f3bb881ad2",
+            "size": 31144
+        },
+        {
+            "relativePath": "gamegame_Data/Managed/UnityEngine.SubsystemsModule.dll",
+            "md5": "cd8fab65c293da0b9fad98a59745e731",
+            "size": 42928
+        },
+        {
+            "relativePath": "gamegame_Data/Managed/UnityEngine.TerrainModule.dll",
+            "md5": "5588961b66dca3e65210b7c2475da48f",
+            "size": 132520
+        },
+        {
+            "relativePath": "gamegame_Data/Managed/UnityEngine.TerrainPhysicsModule.dll",
+            "md5": "29e0604e282a6032050db257ee4ba11b",
+            "size": 27568
+        },
+        {
+            "relativePath": "gamegame_Data/Managed/UnityEngine.TetgenModule.dll",
+            "md5": "9b27c7a3e10be341f1bd3d9f2db8c6bc",
+            "size": 26032
+        },
+        {
+            "relativePath": "gamegame_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll",
+            "md5": "4837dd7b282868c033ec7c4fe63b9c62",
+            "size": 86440
+        },
+        {
+            "relativePath": "gamegame_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll",
+            "md5": "05009ff63903824004d5fc3e03fa92a7",
+            "size": 314800
+        },
+        {
+            "relativePath": "gamegame_Data/Managed/UnityEngine.TextRenderingModule.dll",
+            "md5": "08d306bcc32fa6e19abf8c4a53b83a0b",
+            "size": 39344
+        },
+        {
+            "relativePath": "gamegame_Data/Managed/UnityEngine.TilemapModule.dll",
+            "md5": "b162a185541250557d19799a009f4f8a",
+            "size": 75688
+        },
+        {
+            "relativePath": "gamegame_Data/Managed/UnityEngine.TimelineFoundationModule.dll",
+            "md5": "52c4bc10a15b7861e004a696872e6668",
+            "size": 167344
+        },
+        {
+            "relativePath": "gamegame_Data/Managed/UnityEngine.TLSModule.dll",
+            "md5": "daca05eab5a15af0ddf60ddb512f8a0a",
+            "size": 34224
+        },
+        {
+            "relativePath": "gamegame_Data/Managed/UnityEngine.U2DRuntimeModule.dll",
+            "md5": "2657a249e0de3934d867fbd46bfdf1b3",
+            "size": 73648
+        },
+        {
+            "relativePath": "gamegame_Data/Managed/UnityEngine.UI.dll",
+            "md5": "e98fed7ec43301ca409b5a75c574d979",
+            "size": 269312
+        },
+        {
+            "relativePath": "gamegame_Data/Managed/UnityEngine.UIElementsModule.dll",
+            "md5": "5711f7e3208a9250d07de88ba11c99bf",
+            "size": 2552232
+        },
+        {
+            "relativePath": "gamegame_Data/Managed/UnityEngine.UIModule.dll",
+            "md5": "fc8e7e03ac7f3304ab2c482dc332e568",
+            "size": 57264
+        },
+        {
+            "relativePath": "gamegame_Data/Managed/UnityEngine.UmbraModule.dll",
+            "md5": "5da378f852f7f965552a11ff788f7c90",
+            "size": 26032
+        },
+        {
+            "relativePath": "gamegame_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll",
+            "md5": "27ec0d86e6d90bcf4eb216ba5e318d10",
+            "size": 36776
+        },
+        {
+            "relativePath": "gamegame_Data/Managed/UnityEngine.UnityAnalyticsModule.dll",
+            "md5": "a241edc80873f70ccd5f73d748fa1860",
+            "size": 61864
+        },
+        {
+            "relativePath": "gamegame_Data/Managed/UnityEngine.UnityConnectModule.dll",
+            "md5": "ac97d4bc2071ea51e88aba343c86b31a",
+            "size": 29616
+        },
+        {
+            "relativePath": "gamegame_Data/Managed/UnityEngine.UnityConsentModule.dll",
+            "md5": "418c3566766be769d58f526c0fca66ea",
+            "size": 16304
+        },
+        {
+            "relativePath": "gamegame_Data/Managed/UnityEngine.UnityCurlModule.dll",
+            "md5": "c88195f9efad94cdaa6d50e6a43228e1",
+            "size": 28072
+        },
+        {
+            "relativePath": "gamegame_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll",
+            "md5": "3c08db869d97dee0a91ea85fde513fe8",
+            "size": 30640
+        },
+        {
+            "relativePath": "gamegame_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll",
+            "md5": "a4db6dca102c851aefc7f4eb8d842b12",
+            "size": 30632
+        },
+        {
+            "relativePath": "gamegame_Data/Managed/UnityEngine.UnityWebRequestModule.dll",
+            "md5": "8ed739c7697c52198c2ed6b740921f3b",
+            "size": 81328
+        },
+        {
+            "relativePath": "gamegame_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll",
+            "md5": "e442b6fd238e375d151c14f12202487a",
+            "size": 29608
+        },
+        {
+            "relativePath": "gamegame_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll",
+            "md5": "42e9fb49a187d53ba84e05a79f43c80f",
+            "size": 35248
+        },
+        {
+            "relativePath": "gamegame_Data/Managed/UnityEngine.VectorGraphicsModule.dll",
+            "md5": "41779735235875e9f12f2debca6ac850",
+            "size": 231336
+        },
+        {
+            "relativePath": "gamegame_Data/Managed/UnityEngine.VehiclesModule.dll",
+            "md5": "e4c53efa9dadb05e6c18e840efe2b1e1",
+            "size": 33200
+        },
+        {
+            "relativePath": "gamegame_Data/Managed/UnityEngine.VFXModule.dll",
+            "md5": "f869ad8dcc6a568c85507dbd9bead112",
+            "size": 82352
+        },
+        {
+            "relativePath": "gamegame_Data/Managed/UnityEngine.VideoModule.dll",
+            "md5": "833dbbaf205c06fa9d3c41b5fbbdd403",
+            "size": 48552
+        },
+        {
+            "relativePath": "gamegame_Data/Managed/UnityEngine.VirtualTexturingModule.dll",
+            "md5": "4c118ae5428914810fcce1af0b112e18",
+            "size": 43952
+        },
+        {
+            "relativePath": "gamegame_Data/Managed/UnityEngine.WindModule.dll",
+            "md5": "35e62e2fc1b5c563197d5358f8fb2af4",
+            "size": 28584
+        },
+        {
+            "relativePath": "gamegame_Data/Managed/UnityEngine.XRModule.dll",
+            "md5": "cd0f4ad9baf61dd2deab99ad61319311",
+            "size": 96176
+        },
+        {
+            "relativePath": "gamegame_Data/Resources/unity default resources",
+            "md5": "ba08703f85c31467c9f2f67c608dcfbf",
+            "size": 5919584
+        },
+        {
+            "relativePath": "gamegame_Data/Resources/unity_builtin_extra",
+            "md5": "50ac4b869766e57b49bfc9758906e868",
+            "size": 528836
+        },
+        {
+            "relativePath": "MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll",
+            "md5": "4f9d98a30d1832f2964b1123f4d54d42",
+            "size": 7834544
+        },
+        {
+            "relativePath": "MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll",
+            "md5": "a225e1b300bdcc42fece38efef773c3f",
+            "size": 611248
+        },
+        {
+            "relativePath": "gamegame_Data/Plugins/ARM64/AppUINativePlugin.dll",
+            "md5": "2912edc1c93100a167292496fc5d3295",
+            "size": 52656
+        },
+        {
+            "relativePath": "gamegame_Data/Plugins/ARM64/AppUITextMateLib.dll",
+            "md5": "be5e97c67a5e7e350066803d417e3137",
+            "size": 1023408
+        },
+        {
+            "relativePath": "gamegame_Data/Plugins/x86_64/AppUINativePlugin.dll",
+            "md5": "66527af780b405c48a7b10937a91f316",
+            "size": 61864
+        },
+        {
+            "relativePath": "gamegame_Data/Plugins/x86_64/AppUITextMateLib.dll",
+            "md5": "189b4caa4714654fd920c697a6308573",
+            "size": 1039272
+        },
+        {
+            "relativePath": "gamegame_Data/Plugins/x86_64/libonigwrap.dll",
+            "md5": "4505a9e776a7619c22029899d984600e",
+            "size": 551336
+        },
+        {
+            "relativePath": "gamegame_Data/Plugins/x86_64/lib_burst_generated.dll",
+            "md5": "eef02f0bf7a349159cc06b17820b1c4f",
+            "size": 1460736
+        },
+        {
+            "relativePath": "MonoBleedingEdge/etc/mono/browscap.ini",
+            "md5": "378be809df7d15aac75a175693e25fbb",
+            "size": 311984
+        },
+        {
+            "relativePath": "MonoBleedingEdge/etc/mono/config",
+            "md5": "67611b783439b35abfe05a97413bba46",
+            "size": 3815
+        },
+        {
+            "relativePath": "MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx",
+            "md5": "f7be9f1841ff92f9d4040aed832e0c79",
+            "size": 60575
+        },
+        {
+            "relativePath": "MonoBleedingEdge/etc/mono/2.0/machine.config",
+            "md5": "5b791b8493c4e9a55d8c5ee522ce1cef",
+            "size": 29066
+        },
+        {
+            "relativePath": "MonoBleedingEdge/etc/mono/2.0/settings.map",
+            "md5": "22c818a23169e12bd3c8587b6394c731",
+            "size": 2622
+        },
+        {
+            "relativePath": "MonoBleedingEdge/etc/mono/2.0/web.config",
+            "md5": "dc6dd6d8d1fc74e76c84b0b38dc6b1e3",
+            "size": 11635
+        },
+        {
+            "relativePath": "MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx",
+            "md5": "f7be9f1841ff92f9d4040aed832e0c79",
+            "size": 60575
+        },
+        {
+            "relativePath": "MonoBleedingEdge/etc/mono/4.0/machine.config",
+            "md5": "32bf879734966ef6659d914a217691e0",
+            "size": 33598
+        },
+        {
+            "relativePath": "MonoBleedingEdge/etc/mono/4.0/settings.map",
+            "md5": "ba17ade8a8e3ee221377534c8136f617",
+            "size": 2622
+        },
+        {
+            "relativePath": "MonoBleedingEdge/etc/mono/4.0/web.config",
+            "md5": "d081581e16b06480a5aaef8cdfb305ab",
+            "size": 18802
+        },
+        {
+            "relativePath": "MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx",
+            "md5": "f7be9f1841ff92f9d4040aed832e0c79",
+            "size": 60575
+        },
+        {
+            "relativePath": "MonoBleedingEdge/etc/mono/4.5/machine.config",
+            "md5": "25ff1ec49e3ac9285bd943cf036bd813",
+            "size": 34056
+        },
+        {
+            "relativePath": "MonoBleedingEdge/etc/mono/4.5/settings.map",
+            "md5": "ba17ade8a8e3ee221377534c8136f617",
+            "size": 2622
+        },
+        {
+            "relativePath": "MonoBleedingEdge/etc/mono/4.5/web.config",
+            "md5": "5075af18fe1d2b5f9555d5cc68029814",
+            "size": 18811
+        },
+        {
+            "relativePath": "MonoBleedingEdge/etc/mono/mconfig/config.xml",
+            "md5": "f34b330f20dce1bdcce9058fca287099",
+            "size": 25817
+        },
+        {
+            "relativePath": "MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser",
+            "md5": "0d831c1264b5b32a39fa347de368fe48",
+            "size": 1605
+        },
+        {
+            "relativePath": "MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser",
+            "md5": "0d831c1264b5b32a39fa347de368fe48",
+            "size": 1605
+        },
+        {
+            "relativePath": "MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser",
+            "md5": "0d831c1264b5b32a39fa347de368fe48",
+            "size": 1605
+        }
+    ]
+}
