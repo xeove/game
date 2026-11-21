@@ -1,5 +1,5 @@
 {
-    "gameVersion": "2026.11.21.1555",
+    "gameVersion": "2026.11.21.1711",
     "exeName": "gamegame.exe",
     "files": [
         {
@@ -44,17 +44,17 @@
         },
         {
             "relativePath": "gamegame_Data/boot.config",
-            "md5": "842025cf63c000b1ac1908ca8dc35c91",
-            "size": 162
+            "md5": "8fdf8c186ee51ff0b7d5146d2ae16d5f",
+            "size": 156
         },
         {
             "relativePath": "gamegame_Data/globalgamemanagers",
-            "md5": "c93359d62c3acb19863bc3b286ac3c14",
+            "md5": "1f56d5c6152c68fa307017def3654197",
             "size": 147620
         },
         {
             "relativePath": "gamegame_Data/globalgamemanagers.assets",
-            "md5": "7c6d76ee101bbfc45b04ab9c353d3fe2",
+            "md5": "f0f819788fa399ea5714a499d3726e10",
             "size": 1136664
         },
         {
@@ -64,12 +64,12 @@
         },
         {
             "relativePath": "gamegame_Data/level0",
-            "md5": "a95c26b6930a479b86885bd4859f6c9e",
-            "size": 130472
+            "md5": "5328662967254b150382a686bbb1d75d",
+            "size": 130524
         },
         {
             "relativePath": "gamegame_Data/resources.assets",
-            "md5": "962e8dede2440a3e5e36dd1c017ba39c",
+            "md5": "b908893ba741561a1ed7f12eff4d4e47",
             "size": 10472620
         },
         {
@@ -89,18 +89,18 @@
         },
         {
             "relativePath": "gamegame_Data/sharedassets0.assets",
-            "md5": "17e2b16f477dbf2dd649ad99c4ceaa7f",
-            "size": 7933104
+            "md5": "601e59be54d7ffb91bac739d14b5d7ce",
+            "size": 9509088
         },
         {
             "relativePath": "gamegame_Data/sharedassets0.assets.resS",
-            "md5": "2d672d8ef1302aad6d2d902edfee784e",
-            "size": 819216
+            "md5": "bdbf52897e057e0e8b1da7b749b00379",
+            "size": 557072
         },
         {
             "relativePath": "gamegame_Data/Managed/Assembly-CSharp.dll",
-            "md5": "cd8d736710a8da7ae122235d1a697588",
-            "size": 247296
+            "md5": "cdac3ddb307f5002dcad8731aa30d43e",
+            "size": 248320
         },
         {
             "relativePath": "gamegame_Data/Managed/kcp2k.dll",
