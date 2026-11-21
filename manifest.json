@@ -1,5 +1,5 @@
 {
-    "gameVersion": "2026.11.21.1711",
+    "gameVersion": "2026.11.21.1922",
     "exeName": "gamegame.exe",
     "files": [
         {
@@ -44,12 +44,12 @@
         },
         {
             "relativePath": "gamegame_Data/boot.config",
-            "md5": "8fdf8c186ee51ff0b7d5146d2ae16d5f",
+            "md5": "6e4a4ad1d75f10202324135a2628f787",
             "size": 156
         },
         {
             "relativePath": "gamegame_Data/globalgamemanagers",
-            "md5": "1f56d5c6152c68fa307017def3654197",
+            "md5": "8f0a6e6026ec6f908e845c01fad1325a",
             "size": 147620
         },
         {
@@ -64,12 +64,12 @@
         },
         {
             "relativePath": "gamegame_Data/level0",
-            "md5": "5328662967254b150382a686bbb1d75d",
-            "size": 130524
+            "md5": "f31b949ad7c240e517b3b72ca18e22e6",
+            "size": 130540
         },
         {
             "relativePath": "gamegame_Data/resources.assets",
-            "md5": "b908893ba741561a1ed7f12eff4d4e47",
+            "md5": "c142cc65f46991bda7d81bb24a3c8e00",
             "size": 10472620
         },
         {
@@ -89,8 +89,8 @@
         },
         {
             "relativePath": "gamegame_Data/sharedassets0.assets",
-            "md5": "601e59be54d7ffb91bac739d14b5d7ce",
-            "size": 9509088
+            "md5": "93674a272fea2810be4d1751a5ee8486",
+            "size": 9775760
         },
         {
             "relativePath": "gamegame_Data/sharedassets0.assets.resS",
@@ -99,8 +99,8 @@
         },
         {
             "relativePath": "gamegame_Data/Managed/Assembly-CSharp.dll",
-            "md5": "cdac3ddb307f5002dcad8731aa30d43e",
-            "size": 248320
+            "md5": "48a074390f91ab9fabca7d59255a6171",
+            "size": 249344
         },
         {
             "relativePath": "gamegame_Data/Managed/kcp2k.dll",
