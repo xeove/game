@@ -1,7 +1,12 @@
 {
-    "gameVersion": "2026.11.21.1501",
+    "gameVersion": "2026.11.21.1511",
     "exeName": "gamegame.exe",
     "files": [
+        {
+            "relativePath": ".gitignore.txt",
+            "md5": "3d528d35e9a6edce68a8a9e13be3322b",
+            "size": 81
+        },
         {
             "relativePath": "DirectML.dll",
             "md5": "7982ce756c6e8c8f6bab62eb1902b714",
@@ -34,8 +39,8 @@
         },
         {
             "relativePath": ".git/COMMIT_EDITMSG",
-            "md5": "2f2ce2890f9c5d0a276380f9bee432cd",
-            "size": 7
+            "md5": "5a123cbba14bb0c315269429574fc326",
+            "size": 21
         },
         {
             "relativePath": ".git/config",
@@ -49,7 +54,7 @@
         },
         {
             "relativePath": ".git/FETCH_HEAD",
-            "md5": "1ebd55e7e693c9b134622c4e5dcc75c1",
+            "md5": "f8c113e64b52720f77086a60d61751b0",
             "size": 89
         },
         {
@@ -59,7 +64,7 @@
         },
         {
             "relativePath": ".git/index",
-            "md5": "b85d1d3931d929d3dd5eddfb270ace5c",
+            "md5": "50b313a992bc0cb95621b21c8203b995",
             "size": 25174
         },
         {
@@ -209,8 +214,8 @@
         },
         {
             "relativePath": ".git/logs/HEAD",
-            "md5": "59c343359ab455aab8c3d03a71433ad1",
-            "size": 448
+            "md5": "9641189c895dec313a6f617d91866d3d",
+            "size": 601
         },
         {
             "relativePath": "gamegame_Data/Managed/Assembly-CSharp.dll",
@@ -1198,6 +1203,11 @@
             "size": 434
         },
         {
+            "relativePath": ".git/objects/2c/2d1edb50e031f5005ae430f6f5119d982564ac",
+            "md5": "819e78fa6ec23c08900bdcf0930edd73",
+            "size": 434
+        },
+        {
             "relativePath": ".git/objects/2d/1bf127aad5f47e2bfe58880fb5eb88197b24b3",
             "md5": "29427bba52ce60a71d17ff540d561f9a",
             "size": 80081
@@ -1366,6 +1376,11 @@
             "relativePath": ".git/objects/52/77eca155b4df741ec6e38137a8049da025416c",
             "md5": "a88bc93304181edcb9f530210ec5a3cc",
             "size": 34357
+        },
+        {
+            "relativePath": ".git/objects/57/4f5aebc3dc67198385ea0dd956f9630f06ac2b",
+            "md5": "54deb107702193f20b30978537d07abd",
+            "size": 161
         },
         {
             "relativePath": ".git/objects/58/38952e5945d6356e40e4462608f62c65c5a454",
@@ -1706,6 +1721,11 @@
             "relativePath": ".git/objects/aa/2fc5eb00b9a9fd40fd87a6fc69376a53697493",
             "md5": "1d0b78b6f25f62a95cf96baff2f95af7",
             "size": 124656
+        },
+        {
+            "relativePath": ".git/objects/aa/5fe204ef77c5ccadc6e6ca934c6ccde59da48e",
+            "md5": "40112f97a06f1b2f46dd2e599083eb6a",
+            "size": 21888
         },
         {
             "relativePath": ".git/objects/aa/df38d3385c0e90c885aaf66cb841ce07dbd84d",
@@ -2064,7 +2084,7 @@
         },
         {
             "relativePath": ".git/refs/heads/main",
-            "md5": "1fc23d4c9d6c55920f92b12732ddc246",
+            "md5": "002708ddf2b77a5cbf804093ec836732",
             "size": 41
         },
         {
@@ -2109,8 +2129,8 @@
         },
         {
             "relativePath": ".git/logs/refs/heads/main",
-            "md5": "59c343359ab455aab8c3d03a71433ad1",
-            "size": 448
+            "md5": "9641189c895dec313a6f617d91866d3d",
+            "size": 601
         },
         {
             "relativePath": ".git/refs/remotes/origin/HEAD",
@@ -2119,7 +2139,7 @@
         },
         {
             "relativePath": ".git/refs/remotes/origin/main",
-            "md5": "1fc23d4c9d6c55920f92b12732ddc246",
+            "md5": "002708ddf2b77a5cbf804093ec836732",
             "size": 41
         },
         {
@@ -2189,13 +2209,13 @@
         },
         {
             "relativePath": ".git/logs/refs/remotes/origin/HEAD",
-            "md5": "c9ffe952eb8de36e93555b4630a4d435",
-            "size": 2018
+            "md5": "9ee8b945a9d4b3080e61485c56e43268",
+            "size": 2172
         },
         {
             "relativePath": ".git/logs/refs/remotes/origin/main",
-            "md5": "3fd8991a789feb14efc939c582b1b6f0",
-            "size": 278
+            "md5": "9e9307d0ae8d27effcc3f39012ceba50",
+            "size": 417
         },
         {
             "relativePath": "MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser",
